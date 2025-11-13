@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ridiculous-ops/Ridiculous-ops.github.io/sitemap.xml
